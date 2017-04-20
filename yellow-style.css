@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: arial;
+    color: white;
+}
+#wrapper{
+    width: 977px;
+    background: black;
+}
+#banner img{
+    margin: 15px;
+    display:inline-block;
+    vertical-align: top;
+}
+#banner p{
+    margin-left: 785px;
+    margin-top: -60px;
+    display:inline-block;
+    vertical-align: top;
+}
+#nav{
+    display: block;
+    background: linear-gradient(grey, black);
+}
+#nav button{
+    background: linear-gradient(grey, black);
+    padding: 6px 18px;
+    margin-left: 10px;
+    border-style: none;
+    color: silver;
+}
+#menu{
+    display: block;
+    padding: 30px 20px;
+    background: linear-gradient(to bottom right, black, grey);
+}
+.menu1, .menu2, .menu3, .menu4{
+    width:400px;
+    display: inline;
+    vertical-align: top;
+}
+#menu img, div, h3, p{
+    display: inline-block;
+    vertical-align: top;
+}
+#menu div div{
+    width: 165px;
+}
+#menu p{
+    font-size: 12px;
+}
+#menu h3{
+    font-family: times;
+    color: orange;
+}
+#buy div{
+    padding: 30px;
+    display: inline-block;
+}
+#buy p{
+    font-size: 12px;
+    width: 650px;
+}
+#buy button{
+    margin: 30px;
+    margin-left: 120px;
+    margin-top: 45px;
+    padding: 10px 20px;
+    background: orange;
+    border-radius: 5px;
+}
+#portfolio{
+    padding: 20px;
+    background: linear-gradient(to bottom right, black, grey);
+}
+.port-title h3{
+    margin-bottom: 10px;
+    font-family: Times;
+}
+#portfolio h5{
+    margin: 10px 0px;
+    color: orange;
+    font-family: times;
+}
+.port-title a{
+    margin-left: 740px;
+    font-size: 12px;
+    color: orange;
+    text-decoration: none;
+    font-style: italic;
+}
+.port1, .port2, .port3, .port4{
+    vertical-align: top;
+    display: inline-block;;
+}
+#portfolio p{
+    font-size: 12px;
+    width: 230px;
+}
+.top-scroll{
+    margin-left: 875px;
+    color: grey;
+    font-size: 11px;
+    text-decoration: none;
+}
